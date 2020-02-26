@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/namesApp/static/css/main.c4c46d4f.chunk.css",
+    "main.js": "/namesApp/static/js/main.272fe4d8.chunk.js",
+    "main.js.map": "/namesApp/static/js/main.272fe4d8.chunk.js.map",
+    "runtime-main.js": "/namesApp/static/js/runtime-main.b9733be3.js",
+    "runtime-main.js.map": "/namesApp/static/js/runtime-main.b9733be3.js.map",
+    "static/js/2.5dbf2bd0.chunk.js": "/namesApp/static/js/2.5dbf2bd0.chunk.js",
+    "static/js/2.5dbf2bd0.chunk.js.map": "/namesApp/static/js/2.5dbf2bd0.chunk.js.map",
+    "index.html": "/namesApp/index.html",
+    "precache-manifest.73f7e6e1301ef6926797d5e699b61921.js": "/namesApp/precache-manifest.73f7e6e1301ef6926797d5e699b61921.js",
+    "service-worker.js": "/namesApp/service-worker.js",
+    "static/css/main.c4c46d4f.chunk.css.map": "/namesApp/static/css/main.c4c46d4f.chunk.css.map",
+    "static/js/2.5dbf2bd0.chunk.js.LICENSE.txt": "/namesApp/static/js/2.5dbf2bd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9733be3.js",
+    "static/js/2.5dbf2bd0.chunk.js",
+    "static/css/main.c4c46d4f.chunk.css",
+    "static/js/main.272fe4d8.chunk.js"
+  ]
+}
